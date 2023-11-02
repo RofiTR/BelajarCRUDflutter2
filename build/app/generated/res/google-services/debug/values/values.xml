@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://myfluttercollege-3f4ad-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">453636541621</string>
+    <string name="google_api_key" translatable="false">AIzaSyAS4UjGhv-8EccPbC2FOamWYu-zTGlNNN4</string>
+    <string name="google_app_id" translatable="false">1:453636541621:android:c8cf53f4a49576470982fc</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAS4UjGhv-8EccPbC2FOamWYu-zTGlNNN4</string>
+    <string name="google_storage_bucket" translatable="false">myfluttercollege-3f4ad.appspot.com</string>
+    <string name="project_id" translatable="false">myfluttercollege-3f4ad</string>
+</resources>
